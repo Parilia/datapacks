@@ -1,0 +1,21 @@
+{
+  "condition": "alternative",
+  "terms": [
+    {
+      "condition": "entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "item_frame",
+        "nbt": "{ Invisible: 0b }"
+      }
+    },
+    {
+      "condition": "entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "glow_item_frame",
+        "nbt": "{ Invisible: 0b }"
+      }
+    }
+  ]
+}

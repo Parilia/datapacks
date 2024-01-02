@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    "AAA",
+    "A#A"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:saddle"
+    },
+    "A": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_horse_armor",
+    "count": 1
+  }
+}
